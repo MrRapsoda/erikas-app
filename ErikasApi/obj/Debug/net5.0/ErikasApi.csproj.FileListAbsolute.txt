@@ -1,0 +1,330 @@
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\appsettings.json
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\ErikasApi.exe
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\ErikasApi.deps.json
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\ErikasApi.runtimeconfig.json
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\ErikasApi.runtimeconfig.dev.json
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\ErikasApi.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\ref\ErikasApi.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\ErikasApi.pdb
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\ErikasApi.csproj.AssemblyReference.cache
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\ErikasApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\ErikasApi.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\ErikasApi.AssemblyInfo.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\ErikasApi.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\ErikasApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\ErikasApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\staticwebassets\ErikasApi.StaticWebAssets.Manifest.cache
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\staticwebassets\ErikasApi.StaticWebAssets.xml
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\scopedcss\bundle\ErikasApi.styles.css
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\ErikasApi.RazorTargetAssemblyInfo.cache
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\ErikasApi.csproj.CopyComplete
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\ErikasApi.dll
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\ref\ErikasApi.dll
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\ErikasApi.pdb
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\ErikasApi.genruntimeconfig.cache
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\ErikasApi.Views.dll
+C:\Users\richa\source\repos\ErikasApi\bin\Debug\net5.0\ErikasApi.Views.pdb
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\ErikasApi.RazorAssemblyInfo.cache
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\ErikasApi.RazorAssemblyInfo.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\ErikasApi.TagHelpers.input.cache
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\ErikasApi.TagHelpers.output.cache
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\ErikasApi.RazorCoreGenerate.cache
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\Razor\Views\Vestidoes\Create.cshtml.g.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\Razor\Views\Vestidoes\Delete.cshtml.g.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\Razor\Views\Vestidoes\Details.cshtml.g.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\Razor\Views\Vestidoes\Edit.cshtml.g.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\Razor\Views\Vestidoes\Index.cshtml.g.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\ErikasApi.RazorTargetAssemblyInfo.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\ErikasApi.Views.pdb
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\Razor\Views\Trajes2\Create.cshtml.g.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\Razor\Views\Trajes2\Delete.cshtml.g.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\Razor\Views\Trajes2\Details.cshtml.g.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\Razor\Views\Trajes2\Edit.cshtml.g.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\Razor\Views\Trajes2\Index.cshtml.g.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\Razor\Views\VQuinceanos\Create.cshtml.g.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\Razor\Views\VQuinceanos\Delete.cshtml.g.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\Razor\Views\VQuinceanos\Details.cshtml.g.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\Razor\Views\VQuinceanos\Edit.cshtml.g.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\Razor\Views\VQuinceanos\Index.cshtml.g.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\Razor\Views\accesoriosses\Create.cshtml.g.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\Razor\Views\accesoriosses\Delete.cshtml.g.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\Razor\Views\accesoriosses\Details.cshtml.g.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\Razor\Views\accesoriosses\Edit.cshtml.g.cs
+C:\Users\richa\source\repos\ErikasApi\obj\Debug\net5.0\Razor\Views\accesoriosses\Index.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\appsettings.json
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\ErikasApi.exe
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\ErikasApi.deps.json
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\ErikasApi.runtimeconfig.json
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\ErikasApi.runtimeconfig.dev.json
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\ErikasApi.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\ref\ErikasApi.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\ErikasApi.pdb
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\ErikasApi.Views.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\ErikasApi.Views.pdb
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Humanizer.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\ErikasApi.csproj.AssemblyReference.cache
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\ErikasApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\ErikasApi.AssemblyInfoInputs.cache
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\ErikasApi.AssemblyInfo.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\ErikasApi.csproj.CoreCompileInputs.cache
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\ErikasApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\ErikasApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\ErikasApi.RazorAssemblyInfo.cache
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\ErikasApi.RazorAssemblyInfo.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\staticwebassets\ErikasApi.StaticWebAssets.Manifest.cache
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\staticwebassets\ErikasApi.StaticWebAssets.xml
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\scopedcss\bundle\ErikasApi.styles.css
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\ErikasApi.TagHelpers.input.cache
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\ErikasApi.TagHelpers.output.cache
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\ErikasApi.RazorCoreGenerate.cache
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\Razor\Views\accesoriosses\Create.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\Razor\Views\accesoriosses\Delete.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\Razor\Views\accesoriosses\Details.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\Razor\Views\accesoriosses\Edit.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\Razor\Views\accesoriosses\Index.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\Razor\Views\Trajes2\Create.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\Razor\Views\Trajes2\Delete.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\Razor\Views\Trajes2\Details.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\Razor\Views\Trajes2\Edit.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\Razor\Views\Trajes2\Index.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\Razor\Views\Vestidoes\Create.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\Razor\Views\Vestidoes\Delete.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\Razor\Views\Vestidoes\Details.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\Razor\Views\Vestidoes\Edit.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\Razor\Views\Vestidoes\Index.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\Razor\Views\VQuinceanos\Create.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\Razor\Views\VQuinceanos\Delete.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\Razor\Views\VQuinceanos\Details.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\Razor\Views\VQuinceanos\Edit.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\Razor\Views\VQuinceanos\Index.cshtml.g.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\ErikasApi.RazorTargetAssemblyInfo.cache
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\ErikasApi.RazorTargetAssemblyInfo.cs
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\ErikasApi.Views.pdb
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\ErikasApi.csproj.CopyComplete
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\ErikasApi.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\ref\ErikasApi.dll
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\ErikasApi.pdb
+D:\Universidad\2021\III Cuatri\Progra\Proyecto\ErikasApi\obj\Debug\net5.0\ErikasApi.genruntimeconfig.cache
